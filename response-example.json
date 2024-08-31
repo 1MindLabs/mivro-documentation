@@ -1,0 +1,187 @@
+{
+  "_id": "8901719104046",
+  "_keywords": [
+    "and",
+    "biscuit",
+    "cake",
+    "chocolate",
+    "hide",
+    "parle",
+    "seek"
+  ],
+  "additives_n": 2,
+  "additives_names": ["Lecithins", "Sodium carbonates"],
+  "additives_tags": ["e322", "e500"],
+  "allergens_tags": ["Gluten", "Soybeans"],
+  "brands": "Parle",
+  "categories": "Snacks, Sweet snacks, Biscuits and cakes, Biscuits, Chocolate biscuits",
+  "countries": "India",
+  "health_risk": {
+    "ingredient_warnings": [
+      "This product contains chocolate chips, which may contain dairy ingredients and could be unsuitable for those with dairy allergies.",
+      "The presence of soy lecithin as an emulsifier might be a concern for individuals with soy allergies.",
+      "The product contains a significant amount of sugar, which may contribute to weight gain and other health issues.",
+      "This product contains artificial flavoring, which may not be ideal for those concerned about consuming artificial ingredients.",
+      "The product contains palm oil, which is derived from palm trees and has been associated with environmental concerns due to deforestation."
+    ]
+  },
+  "ingredients": [
+    {
+      "icon": "wheat-flour",
+      "name": "Wheat Flour",
+      "percentage": "46.70 %"
+    },
+    {
+      "icon": "chocolate-chips",
+      "name": "Chocolate Chips",
+      "percentage": "23.00 %"
+    },
+    {
+      "icon": "sugar",
+      "name": "Sugar",
+      "percentage": "11.80 %"
+    },
+    {
+      "icon": "cocoa",
+      "name": "Cocoa Mass",
+      "percentage": "9.55 %"
+    },
+    {
+      "icon": "butter",
+      "name": "Cocoa Butter",
+      "percentage": "4.78 %"
+    },
+    {
+      "icon": "no-image",
+      "name": "Dextrose",
+      "percentage": "2.39 %"
+    },
+    {
+      "icon": "emulsifiers",
+      "name": "Emulsifier",
+      "percentage": "1.19 %"
+    },
+    {
+      "icon": "artificial-flavours",
+      "name": "Artificial Flavouring Sugar",
+      "percentage": "0.60 %"
+    },
+    {
+      "icon": "palm-oil",
+      "name": "Vegetable Oil Palm Oil",
+      "percentage": "0.30 %"
+    },
+    {
+      "icon": "syrup",
+      "name": "Glucose-Fructose Syrup",
+      "percentage": "0.15 %"
+    },
+    {
+      "icon": "no-image",
+      "name": "Raising Agents",
+      "percentage": "0.07 %"
+    },
+    {
+      "icon": "no-image",
+      "name": "Ammonium Carbonate Sodium Carbonate",
+      "percentage": "0.04 %"
+    },
+    {
+      "icon": "cocoa",
+      "name": "Cocoa Solids",
+      "percentage": "0.56 %"
+    }
+  ],
+  "ingredients_n": 18,
+  "nova_group": 4,
+  "nova_group_name": "Ultra-processed food and drink products",
+  "nutrient_levels": {
+    "fat": "moderate",
+    "salt": "moderate",
+    "saturated-fat": "high",
+    "sugars": "high"
+  },
+  "nutriments": {
+    "negative_nutrient": [
+      {
+        "color": "#DF5656",
+        "icon": "carbohydrate",
+        "name": "Carbohydrates",
+        "quantity": "76.36 g",
+        "text": "Carbs:  A bit high, try to moderate."
+      },
+      {
+        "color": "#DF5656",
+        "icon": "fat",
+        "name": "Fat",
+        "quantity": "18.18 g",
+        "text": "Fat:  A bit much, try to reduce."
+      },
+      {
+        "color": "#DF5656",
+        "icon": "fat",
+        "name": "Saturated Fat",
+        "quantity": "9.09 g",
+        "text": "Saturated fat:  Watch out for this!"
+      },
+      {
+        "color": "#DF5656",
+        "icon": "salt",
+        "name": "Salt",
+        "quantity": "0.32 g",
+        "text": "Salt:  A bit high, be mindful."
+      },
+      {
+        "color": "#DF5656",
+        "icon": "sugar",
+        "name": "Sugars",
+        "quantity": "32.73 g",
+        "text": "Sugar rush:  Take it easy on the sweets."
+      },
+      {
+        "color": "#DF5656",
+        "icon": "energy",
+        "name": "Energy (kcal)",
+        "quantity": "472.73 kcal",
+        "text": "Energy:  Keep an eye on those calories."
+      }
+    ],
+    "positive_nutrient": [
+      {
+        "color": "#DF5656",
+        "icon": "protein",
+        "name": "Proteins",
+        "quantity": "3.64 g",
+        "text": "Protein:  A bit low, try for more!"
+      },
+      {
+        "color": "#DF5656",
+        "icon": "fiber",
+        "name": "Fiber",
+        "quantity": "0.00 g",
+        "text": "Fiber:  You need more fiber!"
+      }
+    ]
+  },
+  "nutriscore_assessment": "Very Poor",
+  "nutriscore_grade": "e",
+  "nutriscore_grade_color": "#DF5656",
+  "nutriscore_score": 22,
+  "product_name": "Hide & Seek Chocolate Chip Cookies",
+  "quantity": "82.5",
+  "recommeded_product": {
+    "product_name": "Parle Krackjack"
+  },
+  "response_size": "0.81 KB",
+  "response_time": "0.46 seconds",
+  "search_date": "29-August-2024",
+  "search_response": "200 OK",
+  "search_time": "08:33 AM",
+  "search_type": "Open Food Facts API",
+  "selected_images": {
+    "en": "https://images.openfoodfacts.org/images/products/890/171/910/4046/front_en.18.400.jpg"
+  },
+  "total_health_risk": 5,
+  "total_nutriments": 8,
+  "warning": "The information provided is for general guidance only and should not be considered medical advice. Always seek professional advice for important health decisions."
+}
