@@ -73,12 +73,12 @@ Additionally, the app includes a Recipe Chatbot for personalized recipe recommen
 
 ## Contributing
 
-We welcome contributions! Please follow the guidelines in our [Contributing Guide](https://github.com/1MindLabs/mivro-documentation/blob/main/CONTRIBUTING.md) to get started.
+We welcome contributions! Please follow the guidelines in our [Contributing Guide](https://github.com/1MindLabs/mivro-docs/blob/main/CONTRIBUTING.md) to get started.
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/1MindLabs/mivro-documentation/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/1MindLabs/mivro-docs/blob/main/LICENSE).
 
 ## Authors
 
-[Areeb Ahmed](https://github.com/areebahmeddd) - [Shivansh Karan](https://github.com/SpaceTesla) - [Shashwat Kumar](https://github.com/shashwat6204) - [Rishi Chirchi](https://github.com/rishichirchi)
+[Areeb Ahmed](https://github.com/areebahmeddd) - [Shivansh Karan](https://github.com/spacetesla) - [Rishi Chirchi](https://github.com/rishichirchi) - [Avantika Kesarwani](https://github.com/avii09) - [Yuktha PS](https://github.com/psyuktha)

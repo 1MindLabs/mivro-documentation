@@ -20,8 +20,6 @@
     "ingredient_warnings": [
       "This product contains chocolate chips, which may contain dairy ingredients and could be unsuitable for those with dairy allergies.",
       "The presence of soy lecithin as an emulsifier might be a concern for individuals with soy allergies.",
-      "The product contains a significant amount of sugar, which may contribute to weight gain and other health issues.",
-      "This product contains artificial flavoring, which may not be ideal for those concerned about consuming artificial ingredients.",
       "The product contains palm oil, which is derived from palm trees and has been associated with environmental concerns due to deforestation."
     ]
   },
@@ -32,12 +30,12 @@
       "percentage": "46.70 %"
     },
     {
-      "icon": "chocolate-chips",
+      "icon": "chocolate",
       "name": "Chocolate Chips",
       "percentage": "23.00 %"
     },
     {
-      "icon": "sugar",
+      "icon": "sugars",
       "name": "Sugar",
       "percentage": "11.80 %"
     },
@@ -82,8 +80,8 @@
       "percentage": "0.07 %"
     },
     {
-      "icon": "no-image",
-      "name": "Ammonium Carbonate Sodium Carbonate",
+      "icon": "ammonium",
+      "name": "Ammonium Carbonate",
       "percentage": "0.04 %"
     },
     {
@@ -105,7 +103,7 @@
     "negative_nutrient": [
       {
         "color": "#DF5656",
-        "icon": "carbohydrate",
+        "icon": "carbohydrates",
         "name": "Carbohydrates",
         "quantity": "76.36 g",
         "text": "Carbs:  A bit high, try to moderate."
@@ -133,7 +131,7 @@
       },
       {
         "color": "#DF5656",
-        "icon": "sugar",
+        "icon": "sugars",
         "name": "Sugars",
         "quantity": "32.73 g",
         "text": "Sugar rush:  Take it easy on the sweets."
@@ -181,7 +179,6 @@
   "selected_images": {
     "en": "https://images.openfoodfacts.org/images/products/890/171/910/4046/front_en.18.400.jpg"
   },
-  "total_health_risk": 5,
-  "total_nutriments": 8,
-  "warning": "The information provided is for general guidance only and should not be considered medical advice. Always seek professional advice for important health decisions."
+  "total_health_risks": 3,
+  "total_nutriments": 8
 }

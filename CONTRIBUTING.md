@@ -35,22 +35,26 @@ Ready to contribute code? Please follow these guidelines:
 1. **Fork the Repository:** Click the "Fork" button at the top right of the relevant repository to create your own copy.
 
 2. **Clone Your Fork:**
+
    ```bash
    git clone https://github.com/<your-username>/<repository>.git
    ```
 
 3. **Create a New Branch:**
+
    ```bash
    git checkout -b <your-branch-name>
    ```
 
 4. **Make Your Changes:** Work on your changes and commit them with a clear message.
+
    ```bash
    git add .
    git commit -m "Describe your changes"
    ```
 
 5. **Push Your Changes:**
+
    ```bash
    git push origin <your-branch-name>
    ```
@@ -60,15 +64,20 @@ Ready to contribute code? Please follow these guidelines:
    - Click "New Pull Request".
    - Select your branch and provide a description of your changes.
    - **Naming Your Pull Request:**
-     - For new features or improvements: `[Food Icon] [Version Number] Description of the feature or improvement`
-       - Example: `🥕 [v1.0.0] Integrated new search engine capabilities`
-     - For fixes: `FIXES #<issue-number> 🛠️ [Version Number] Description of the fix`
-       - Example: `FIXES #1 🛠️ [v1.0.0] Corrected barcode scanning issue`
+     - Use conventional commit prefixes in your pull request title:
+       - **`feat:`** for new features or improvements.
+       - **`fix:`** for bug fixes.
+       - **`docs:`** for documentation updates.
+       - **`chore:`** for maintenance tasks or refactoring.
+       - **`test:`** for adding or modifying tests.
+     - Example titles:
+       - `feat: Add user authentication system`
+       - `fix: Resolve login button not working on mobile`
    - Submit your pull request for review.
 
 ## Code of Conduct
 
-Please adhere to the [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct) to ensure a welcoming and respectful environment for everyone involved in the project.
+Please adhere to the [Code of Conduct](https://contributor-covenant.org/version/2/1/code_of_conduct) to ensure a welcoming and respectful environment for everyone involved in the project.
 
 ## Getting Help
 
